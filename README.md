@@ -7,10 +7,10 @@
 # Danilo Monari
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-Graduado em Comércio Exterior pela FATEC e experiência em gestão e liderança, estou entusiasmado em compartilhar minhas habilidades e conhecimentos com outros. 
+Graduado em Comércio Exterior pela FATEC e Pós graduado em Liderança e Gestão de Pessoas pela Escola de Negócios Conquer.
 Tive a oportunidade de atuar como Diretor Executivo da Fundação Karnig Bazarian (FKB) e desempenhar atividades nos setores administrativo e cultural do SESI Itapetininga. 
-Hoje, atuo como Instrutor de Programas Corporativos nos cursos de desenvolvimento de competências comportamentais/soft skills no SESI-SP, atendendo as regiões de Itapetininga e Sorocaba. 
-Além disso, estou prestes a concluir minha pós-graduação em Liderança e Gestão de Pessoas. Iniciei no ano de 2022 o curso de Engenharia da Computação com o objetivo de desenvolver novas habilidades na área de tecnologia. Estou animado para continuar minha jornada de desenvolvimento profissional e ajudar outras pessoas a atingir seus objetivos.
+Atuei como Instrutor de Programas Corporativos nos cursos de desenvolvimento de competências comportamentais/soft skills no SESI-SP, atendendo as regiões de Itapetininga e Sorocaba. 
+Iniciei no ano de 2022 o curso de Engenharia da Computação com o objetivo de desenvolver novas habilidades na área de tecnologia. Estou animado para continuar minha jornada de desenvolvimento profissional e ajudar outras pessoas a atingir seus objetivos.
 
 Meu lado B, sou apaixonado por aviação o que me levou a obter minha licença em Piloto Privado de Avião. Outra paixão é o malabarismo, onde possibilitou minha participação na ONG, Circo Escola Criança Sorriso, como Diretor Cultural.
 
