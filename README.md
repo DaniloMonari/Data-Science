@@ -22,6 +22,6 @@ Meu lado B, sou apaixonado por aviação o que me levou a obter minha licença e
 
 ## Projetos:
 
-* [Analisando dados Airbnb - New York](https://github.com/DaniloMonari/Data-Science/blob/main/Analisando_os_Dados_do_Airbnb_New_York_City.ipynb)
+* [Analisando dados Airbnb - New York City](https://github.com/DaniloMonari/Data-Science/blob/main/Analisando_os_Dados_do_Airbnb_New_York_City.ipynb)
 
 ---
