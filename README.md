@@ -3,7 +3,7 @@
 </p>
 
 # Danilo Monari
-<sub>*Data Scientist Student* Center</sub>
+<sub>*Data Scientist Student* </sub>
 
 Graduado em Comércio Exterior pela FATEC e Pós graduado em Liderança e Gestão de Pessoas pela Escola de Negócios Conquer.
 Tive a oportunidade de atuar como Diretor Executivo da Fundação Karnig Bazarian (FKB) e desempenhar atividades nos setores administrativo e cultural do SESI Itapetininga. 
