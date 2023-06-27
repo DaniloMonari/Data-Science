@@ -22,7 +22,7 @@ Meu lado B, sou apaixonado por aviação o que me levou a obter minha licença e
 
 ## Projetos:
 
-* **Teste**
+* [Projeto Airbnb - New York](https://colab.research.google.com/drive/11yIt50rmPjcgoveUeRsDIt-bkjSV6SZO?usp=sharing)
 
 
 ---
